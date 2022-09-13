@@ -1,0 +1,45 @@
+.column2{
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+.firstrowcolumn1{
+    background-color: black;
+}
+.firstrowcolumn2{
+    background-color: green;
+}
+.top{
+    color: white;
+}
+.column3{
+    width: 33.3%;
+    height: 250px;
+    float: left;
+}
+.secondrowcolumn1{
+    background-color: yellow;
+}
+.secondrowcolumn2{
+    background-color: purple;
+}
+.secondrowcolumn3{
+    background-color: red;
+}
+.column4{
+    width: 25%;
+    height: 250px;
+    float: left;
+}
+.thirdrowcolumn1{
+    background-color: orange;
+}
+.thirdrowcolumn2{
+    background-color: aqua;
+}
+.thirdrowcolumn3{
+    background-color: brown;
+}
+.thirdrowcolumn4{
+    background-color: pink;
+}
